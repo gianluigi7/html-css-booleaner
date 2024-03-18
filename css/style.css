@@ -5,8 +5,14 @@
 }
  header {
     background-color: #2196f3;
-    
+    background-image: url("../img/pattern.png");
+    background-size: cover;
+
+ ;
+ #logo {
+    width: 180px;
+    padding-top: 50px;
  }
- header img {
-    width: 300px;
+ #Booleaners {
+
  }
