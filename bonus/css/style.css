@@ -76,3 +76,8 @@
   #image-gra{
    background-image: url(../img/graph.jpg);
   }
+
+  .container{
+    width: 80%;
+    margin: 0 auto;
+   }
