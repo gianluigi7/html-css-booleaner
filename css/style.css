@@ -27,7 +27,12 @@
 }
  .photo{
    margin-top: 20px;
+   margin-bottom: 20px;
  }
   .didascalie{
    font-size: 14px;
+  }
+
+  ul{
+   margin: 20px;
   }
