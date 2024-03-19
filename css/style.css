@@ -36,3 +36,16 @@
   ul{
    margin: 20px;
   }
+  table{
+   text-align: left;
+   border-collapse: collapse;
+  }
+  thead{
+   background-color: rgba(0, 60, 255, 0.76);
+  }
+  .odd{
+   background-color: lightblue;
+  }
+  .th3{
+   width: 50%;
+  }
