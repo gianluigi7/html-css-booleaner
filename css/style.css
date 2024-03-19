@@ -39,6 +39,7 @@
   table{
    text-align: left;
    border-collapse: collapse;
+   margin-bottom: 20px;
   }
   thead{
    background-color: rgba(0, 60, 255, 0.76);
@@ -48,4 +49,30 @@
   }
   .th3{
    width: 50%;
+  }
+  .paragrafi{
+   font-size: 19px;
+  }
+  footer{
+   margin: 20px 0;
+  }
+  footer h2{
+   font-size: 25px;
+   color: gray;
+   margin-bottom: 10px;
+  }
+  .image{
+   width: 200px;
+   height: 150px;
+   color: whitesmoke;
+   margin: 10px 0;
+   background-size: cover;
+   background-repeat: no-repeat;
+   padding: 0px;
+  }
+  #image-monitor{
+   background-image: url(../img/monitor.jpg);
+  }
+  #image-gra{
+   background-image: url(../img/graph.jpg);
   }
