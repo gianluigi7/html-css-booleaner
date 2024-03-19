@@ -3,16 +3,16 @@
     margin: 0;
     box-sizing: border-box;
 }
- header {
-    background-color: #2196f3;
-    background-image: url("../img/pattern.png");
-    background-size: cover;
-
- ;
- #logo {
-    width: 180px;
-    padding-top: 50px;
+  header{
+    background-color: rgba(3, 129, 202, 0.788);
+    background-image: url(../img/pattern.png);
+    background-size: 30%;
+    height: 120px;
+  }
+ .logo{
+   height: 50px;
+   margin-top: 60px;
  }
- main {
-   text-size-adjust: ;
-}
+  h1{
+   font-size: 60px;
+  }
